@@ -1,3 +1,10 @@
 com\projects\app\model\MyInfo.class
+com\projects\app\dao\ResumeDAO.class
 com\projects\app\controller\HomeController.class
+com\projects\app\model\Resume.class
+com\projects\app\model\Description.class
 com\projects\app\controller\HomeRestController.class
+com\projects\app\dao\ResumeDAOImpl.class
+com\projects\app\services\ResumeService.class
+com\projects\app\db\HashMapDatabase.class
+com\projects\app\model\Experience.class

@@ -1,0 +1,43 @@
+#
+companyName:ICICI Bank
+title:Software Developer
+duration:Apr 12 - Aug 12
+technologies:{Java/Tomcat/Struts/Servlets/JDBC/JSP/XML/HTML}
+summary:The old Customer Service Website is being replaced with a modern, attractive, SOA-oriented site. It has various parts of the functionality to communicate with the backend system through web services. The customer service wesite was being redesigned using the latest technologies like JQuery, Javascript, CSS3 for the front-end to make a much more responsive and interactive UI and Java as the backend language. We also used Oracle Database for storing the data.
+description:{Implemented application using Struts Framework./Actively involved in code deployment in different environments./Implemented front-end using JSP, HTML, JSTL, CSS, JavaScript./Used SVN version control tool./Prepared and executed Unit test cases for existing functionality as per the requirement.}
+#
+companyName:Aviva Life Insurance
+title:Jr. Java Developer
+duration:May 13 - Aug 13
+technologies:{Java/J2EE/JSP/JMS/JDBC/Spring/XML/SOAP WS}
+summary:Developed and maintained an online customer service system. This project involved implementing an online database for the users to enter technical problems and request service. The software allotted the requests to the technical staff depending on their area of expertise and recorded the amount of time required to service the requests. Online summary of the various requests and time taken for each were provided to facilitate faster response to future customer requests. The system allowed users to check the status of their requests using an online interface and provided notifications to the user via email once the request is satisfied.
+description:{Involved in Designing Market Interface (MI) Flow./Extensively used Spring Framework./Used JDBC to interact with the database./Used JSP, Ajax, HTML, JS for developing User Interface components./Developed SOAP Web Services.}
+#
+companyName:Moser Baer
+title:Java Developer
+duration:May 14 - Aug 14
+technologies:{Spring/Tomcat/HTML/XML/SOAP/Rest WS/Hibernate}
+summary:The old Customer Service Website is being replaced with a modern, attractive, SOA-oriented site. It has various parts of the functionality to communicate with the backend system through web services. The customer service wesite was being redesigned using the latest technologies like JQuery, Javascript, CSS3 for the front-end to make a much more responsive and interactive UI and Java as the backend language. We also used Oracle Database for storing the data.
+description:{Implemented application using Spring MVC framework, Hibernate ORM, Servlets, and JSP./Followed Scrum Agile methodology for iterative development of the application./Developed and consumed SOAP and Restful Web Services./Implemented Spring DAO component by developing DAO components./Implemented the user interface using JSP, JavaScript, CSS, and HTML./Designed the front-end using HTML, CSS, JavaScript and JQuery.}
+#
+companyName:Johnson & Johnson
+title:Java Developer
+duration:May 15 - Jan 16
+technologies:{Java/J2EE/XML/Spring/JSP/Hibernate/Restful WS/Servlets}
+summary:It is a web based application that is used to create private line price quotes by Johnson and Johnson sales representatives and commercial customers. This tool lets the representatives retrieve the quotes with a search field where in all the quotes are displayed from newest to oldest when searched with a Batch ID or Representative name. The tool is being designed into modular functionality to accommodate a suite of product pricing tools for all XO products.
+description:{Actively participated in the daily SCRUM meetings and weekly meetings to produce quality deliverables within time./Used and implemented the application using Spring MVC, Spring IOC, Spring Annotations modules and Hibernate./Developed Web Services to allow communication between applications through REST over HTTP./Designed the front end using JSP, Servlets./Used Spring API for wiring components using dependency injection./Implemented front-end using HTML, JSTL, CSS, and JavaScript./Used JUnit for testing./Used GIT version control extensively on daily basis for code maintenance as multiple teams were involved in development.}
+#
+companyName:IMCS Group
+title:Software Developer
+duration:Feb 16 - Sept 16
+technologies:{Java/Spring MVC/JS/XML/AngularJS/Hibernate/CSS/MySQL/Junit}
+summary:I was involved in a project where we were developing an application for managing internal employee information and provide various updates and important information to employees across the company. It securely integrates the employee database and allows for the seamless delivery of content and information. It also keeps important company information and employee information which the employees can access securely. The user interface was built using latest frameworks to make it more responsive and interactive.
+description:{Implemented the application using Spring Model-View-Controller design pattern./Used Spring Hibernate to connect to MySQL database./Participated in Agile scrum meeting daily./Developed REST Web services using JAX-RS and Jersey to perform transactions from front end to our backend applications./Developed DAO components for CRUD operations by implementing Spring DAO./Worked on the website from start to finish giving it a modern look using technologies like HTML, CSS and JavaScript and AngularJS./Used Junit and Mockito for writing unit test cases to test the backend controllers and services.}
+#
+companyName:UHG - Optum
+title:Software Developer
+duration:Oct 16 -
+technologies:{NodeJS/AngularJS/Chai/MongoDB/Express/Jasmine/CSS/HTML/Cucumber}
+summary:Benefit Search Advanced Environment(BASE) is a search application for members who have health insurance plans with Oxford CT and for clinicians. The application is designed to give the ultimate experience to our users to look up their benefits, coverages and accumulators. The application retrieves the data and formats it for member specific details. The app also saves the last 10 recent searches in the database. The app also supports group search for users who would like to view a particular group's offered plans.
+description:{Designed and build the backend of the application in Node.js./Used various Nodejs modules to retrieve data in JSON format by consuming Rest WS./Developed Rest WS Apis in Node to facilitate the flow of data from backend to frontend./Used Mocha-Chai framework to unit test Node.js Apis./Develop Cucumber-Gherkin test scripts to follow and utilize ATDD practices./Develop the front-end of the app in HTML, CSS and Angular.js./Use Karma-Jasmine to unit-test Angular.js controllers and services./Build the jenkins pipeline to achieve automation for CI-CD./Set up and integrate Enterprise Mongodb solution database with the application.}
+END

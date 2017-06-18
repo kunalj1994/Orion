@@ -1,0 +1,22 @@
+<div class="more-info-page-modal">
+  <div>
+    <a href="" ng-click="closeModal()">
+      <i class="fa fa-times float-right"></i>
+    </a>
+  </div>
+  <div class="modal-header">
+    <h3 class="modal-header org">{{description.companyName}}</h3>
+    <div class="dot dot-left"></div>
+    <h3 class="position">{{description.title}}</h3>
+    <div class="dot"></div>
+    <h3 class="tech" ng-repeat="t in description.technologies">{{ t }}{{$last ? '' : ','}}&nbsp;</h3>
+    <h3 class="duration">{{description.duration}}</h3>
+  </div>
+  <div class="modal-body">
+    <p><u>Project Description</u>: <span> {{description.summary}}
+  </span></p>
+    <ul>
+      <li ng-repeat="desc in description.description">{{desc}}</li>
+    </ul>
+  </div>
+</div>

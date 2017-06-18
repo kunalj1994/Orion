@@ -1,0 +1,31 @@
+#
+companyName:ICICI Bank
+title:Software Developer
+duration:Apr 12 - Aug 12
+description:{Implemented application using Struts Framework./Actively involved in code deployment in different environments./Implemented front-end using JSP, HTML, CSS, JS.}
+#
+companyName:Aviva Life Insurance
+title:Jr. Java Developer
+duration:May 13 - Aug 13
+description:{Involved in Designing Market Interface (MI) Flow./Extensively used Spring Framework./Used JDBC to interact with the database./Developed SOAP Web Services.}
+#
+companyName:Moser Baer
+title:Java Developer
+duration:May 14 - Aug 14
+description:{Implemented application using Spring MVC, Hibernate, Servlets, and JSP./Developed and consumed SOAP and Restful WS./Implemented the UI using JSP, JS, CSS, and HTML.}
+#
+companyName:Johnson & Johnson
+title:Java Developer
+duration:May 15 - Jan 16
+description:{Implemented the app using Spring MVC, IOC, Annotations and Hibernate./Developed Rest WS for communication over HTTP./Designed the front end using JSP, HTML, CSS.}
+#
+companyName:IMCS Group
+title:Software Developer
+duration:Feb 16 - Sept 16
+description:{Implemented application using Spring MVC./Used Spring Hibernate to connect to MySQL db./Developed the front-end using Angularjs, HTML, CSS.}
+#
+companyName:UHG - Optum
+title:Software Developer
+duration:Oct 16 -
+description:{Implemented the app using MEAN stack./Implemented CI-CD using Jenkins./Developed backend Rest webservices in Nodejs./}
+END
